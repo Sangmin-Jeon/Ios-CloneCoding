@@ -91,5 +91,3 @@ class CalculatorBrain{ // model은 상속받지 않는다, 부모class없음 기
     
 }
 
-
-// 들여쓰기 하는법 : control + i
